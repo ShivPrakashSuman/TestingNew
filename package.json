@@ -1,0 +1,20 @@
+{
+  "name": "testingnew",
+  "version": "1.0.0",
+  "description": "testing project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.20.0",
+    "joi": "^17.13.3",
+    "mongoose": "^8.6.2",
+    "nodemon": "^3.1.4"
+  }
+}
